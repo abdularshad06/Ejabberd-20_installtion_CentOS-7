@@ -1,8 +1,8 @@
-# Create Python environment for execute this script.
+## Create Python environment for execute this script.
 
-# yum install python3 -y
-# alias python="python3"
-# python -V
+## yum install python3 -y
+## alias python="python3"
+## python -V
 # echo 'alias python="python3"' >> /etc/bashrc
 # reboot
 # python -m pip install mysql-connector-python
